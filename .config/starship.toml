@@ -24,6 +24,9 @@ style = "bright-yellow bold"
 [gcloud]
 disabled = true
 
+[aws]
+disabled = true
+
 [time]
 disabled = false
 format = "at [🕙 $time]($style) "
